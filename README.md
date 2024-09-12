@@ -1,1 +1,1 @@
-# local_event_aggregator
+# local event aggregator
